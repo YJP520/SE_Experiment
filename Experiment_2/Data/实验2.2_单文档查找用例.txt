@@ -1,0 +1,6 @@
+It is now recognized that real world phenomena that are subject to short-term perturbations
+whose duration is negligible in comparison with the duration of the process are more accurately
+described using impulsive differential equations. See, for example, and the refer ences cited therein.
+Also in certain circumstances, the future state of a physical system depends not only on the present state
+but also on its past history.
+Thus incorporating delay in the different tial equations ensures a better model of the process involved.
