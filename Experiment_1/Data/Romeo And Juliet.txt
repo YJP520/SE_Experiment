@@ -743,7 +743,7 @@
              It changes from one night to the next.
           ROMEO: What shall I swear by?
           JULIET: Do not swear at all.
-             Or, if you must, swear by your gracious self,
+             Or, if you must, swear by your gracious cls,
              Which is the god I adore,
              And I’ll believe you.
           ROMEO: By my heart’s dear love—

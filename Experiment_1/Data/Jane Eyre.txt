@@ -591,7 +591,7 @@ the beclouded afternoon was tending to drear twilight. I heard the rain
 still beating continuously on the staircase window, and the wind
 howling in the grove behind the hall; I grew by degrees cold as a
 stone, and then my courage sank. My habitual mood of humiliation,
-self-doubt, forlorn depression, fell damp on the embers of my decaying
+cls-doubt, forlorn depression, fell damp on the embers of my decaying
 ire. All said I was wicked, and perhaps I might be so; what thought had
 I been but just conceiving of starving myself to death? That certainly
 was a crime: and was I fit to die? Or was the vault under the chancel
@@ -894,7 +894,7 @@ in the carriage,” interposed Bessie.
 
 “Surely not! why, she is too old for such pettishness.”
 
-I thought so too; and my self-esteem being wounded by the false charge,
+I thought so too; and my cls-esteem being wounded by the false charge,
 I answered promptly, “I never cried for such a thing in my life: I hate
 going out in the carriage. I cry because I am miserable.”
 
@@ -2796,7 +2796,7 @@ eat it; and I dared not allow them to remain fasting till dinner-time.”
 
 “Madam, allow me an instant. You are aware that my plan in bringing up
 these girls is, not to accustom them to habits of luxury and
-indulgence, but to render them hardy, patient, self-denying. Should any
+indulgence, but to render them hardy, patient, cls-denying. Should any
 little accidental disappointment of the appetite occur, such as the
 spoiling of a meal, the under or the over dressing of a dish, the
 incident ought not to be neutralised by replacing with something more
@@ -3095,7 +3095,7 @@ to stand behind a kicking horse, and let it dash its hoof at my chest—”
 “Hush, Jane! you think too much of the love of human beings; you are
 too impulsive, too vehement; the sovereign hand that created your
 frame, and put life into it, has provided you with other resources than
-your feeble self, or than creatures feeble as you. Besides this earth,
+your feeble cls, or than creatures feeble as you. Besides this earth,
 and besides the race of men, there is an invisible world and a kingdom
 of spirits: that world is round us, for it is everywhere; and those
 spirits watch us, for they are commissioned to guard us; and if we were
@@ -4902,7 +4902,7 @@ the duty of those charged with their education to conceive for them an
 idolatrous devotion: but I am not writing to flatter parental egotism,
 to echo cant, or prop up humbug; I am merely telling the truth. I felt
 a conscientious solicitude for Adèle’s welfare and progress, and a
-quiet liking for her little self: just as I cherished towards Mrs.
+quiet liking for her little cls: just as I cherished towards Mrs.
 Fairfax a thankfulness for her kindness, and a pleasure in her society
 proportionate to the tranquil regard she had for me, and the moderation
 of her mind and character.
@@ -5754,7 +5754,7 @@ long each day?”
 them from morning till noon, and from noon till night: the length of
 the midsummer days favoured my inclination to apply.”
 
-“And you felt self-satisfied with the result of your ardent labours?”
+“And you felt cls-satisfied with the result of your ardent labours?”
 
 “Far from it. I was tormented by the contrast between my idea and my
 handiwork: in each case I had imagined something which I was quite
@@ -5954,7 +5954,7 @@ to what I had seen him look before; not quite so stern—much less
 gloomy. There was a smile on his lips, and his eyes sparkled, whether
 with wine or not, I am not sure; but I think it very probable. He was,
 in short, in his after-dinner mood; more expanded and genial, and also
-more self-indulgent than the frigid and rigid temper of the morning;
+more cls-indulgent than the frigid and rigid temper of the morning;
 still he looked preciously grim, cushioning his massive head against
 the swelling back of his chair, and receiving the light of the fire on
 his granite-hewn features, and in his great, dark eyes; for he had
@@ -6336,7 +6336,7 @@ conviction of ignorance.
 “Your language is enigmatical, sir: but though I am bewildered, I am
 certainly not afraid.”
 
-“You _are_ afraid—your self-love dreads a blunder.”
+“You _are_ afraid—your cls-love dreads a blunder.”
 
 “In that sense I do feel apprehensive—I have no wish to talk nonsense.”
 
@@ -6496,7 +6496,7 @@ as I never saw before or since. Pain, shame, ire, impatience, disgust,
 detestation, seemed momentarily to hold a quivering conflict in the
 large pupil dilating under his ebon eyebrow. Wild was the wrestle which
 should be paramount; but another feeling rose and triumphed: something
-hard and cynical: self-willed and resolute: it settled his passion and
+hard and cynical: cls-willed and resolute: it settled his passion and
 petrified his countenance: he went on—
 
 “During the moment I was silent, Miss Eyre, I was arranging a point
@@ -7049,7 +7049,7 @@ used discreetly.” And here she closed her harangue: a long one for her,
 and uttered with the demureness of a Quakeress.
 
 I still stood absolutely dumfoundered at what appeared to me her
-miraculous self-possession and most inscrutable hypocrisy, when the
+miraculous cls-possession and most inscrutable hypocrisy, when the
 cook entered.
 
 “Mrs. Poole,” said she, addressing Grace, “the servants’ dinner will
@@ -7288,7 +7288,7 @@ power of pleasing him? _You_ of importance to him in any way? Go! your
 folly sickens me. And you have derived pleasure from occasional tokens
 of preference—equivocal tokens shown by a gentleman of family and a man
 of the world to a dependent and a novice. How dared you? Poor stupid
-dupe!—Could not even self-interest make you wiser? You repeated to
+dupe!—Could not even cls-interest make you wiser? You repeated to
 yourself this morning the brief scene of last night?—Cover your face
 and be ashamed! He said something in praise of your eyes, did he? Blind
 puppy! Open their bleared lids and look on your own accursed
@@ -7332,7 +7332,7 @@ I kept my word. An hour or two sufficed to sketch my own portrait in
 crayons; and in less than a fortnight I had completed an ivory
 miniature of an imaginary Blanche Ingram. It looked a lovely face
 enough, and when compared with the real head in chalk, the contrast was
-as great as self-control could desire. I derived benefit from the task:
+as great as cls-control could desire. I derived benefit from the task:
 it had kept my head and hands employed, and had given force and
 fixedness to the new impressions I wished to stamp indelibly on my
 heart.
@@ -7370,7 +7370,7 @@ grateful for such respectful and kind treatment as, if you do your
 duty, you have a right to expect at his hands. Be sure that is the only
 tie he seriously acknowledges between you and him; so don’t make him
 the object of your fine feelings, your raptures, agonies, and so forth.
-He is not of your order: keep to your caste, and be too self-respecting
+He is not of your order: keep to your caste, and be too cls-respecting
 to lavish the love of the whole heart, soul, and strength, where such a
 gift is not wanted and would be despised.”
 
@@ -7812,8 +7812,8 @@ was not, however, so saturnine a pride! she laughed continually; her
 laugh was satirical, and so was the habitual expression of her arched
 and haughty lip.
 
-Genius is said to be self-conscious. I cannot tell whether Miss Ingram
-was a genius, but she was self-conscious—remarkably self-conscious
+Genius is said to be cls-conscious. I cannot tell whether Miss Ingram
+was a genius, but she was cls-conscious—remarkably cls-conscious
 indeed. She entered into a discourse on botany with the gentle Mrs.
 Dent. It seemed Mrs. Dent had not studied that science: though, as she
 said, she liked flowers, “especially wild ones;” Miss Ingram had, and
@@ -8452,7 +8452,7 @@ But as matters really stood, to watch Miss Ingram’s efforts at
 fascinating Mr. Rochester, to witness their repeated failure—herself
 unconscious that they did fail; vainly fancying that each shaft
 launched hit the mark, and infatuatedly pluming herself on success,
-when her pride and self-complacency repelled further and further what
+when her pride and cls-complacency repelled further and further what
 she wished to allure—to witness _this_, was to be at once under
 ceaseless excitation and ruthless restraint.
 
@@ -9158,7 +9158,7 @@ mouth which should speak much and smile often, and have human affection
 for its interlocutor. That feature too is propitious.
 
 “I see no enemy to a fortunate issue but in the brow; and that brow
-professes to say,—‘I can live alone, if self-respect, and circumstances
+professes to say,—‘I can live alone, if cls-respect, and circumstances
 require me so to do. I need not sell my soul to buy bliss. I have an
 inward treasure born with me, which can keep me alive if all extraneous
 delights should be withheld, or offered only at a price I cannot afford
@@ -9247,7 +9247,7 @@ her. I had never thought of Mr. Rochester.
 “Well,” said he, “what are you musing about? What does that grave smile
 signify?”
 
-“Wonder and self-congratulation, sir. I have your permission to retire
+“Wonder and cls-congratulation, sir. I have your permission to retire
 now, I suppose?”
 
 “No; stay a moment; and tell me what the people in the drawing-room
@@ -10124,7 +10124,7 @@ of Nature with man.
 When I was a little girl, only six years old, I one night heard Bessie
 Leaven say to Martha Abbot that she had been dreaming about a little
 child; and that to dream of children was a sure sign of trouble, either
-to one’s self or one’s kin. The saying might have worn out of my
+to one’s cls or one’s kin. The saying might have worn out of my
 memory, had not a circumstance immediately followed which served
 indelibly to fix it there. The next day Bessie was sent for home to the
 deathbed of her little sister.
@@ -10537,7 +10537,7 @@ was something ascetic in her look, which was augmented by the extreme
 plainness of a straight-skirted, black, stuff dress, a starched linen
 collar, hair combed away from the temples, and the nun-like ornament of
 a string of ebony beads and a crucifix. This I felt sure was Eliza,
-though I could trace little resemblance to her former self in that
+though I could trace little resemblance to her former cls in that
 elongated and colourless visage.
 
 The other was as certainly Georgiana: but not the Georgiana I
@@ -11697,7 +11697,7 @@ hand, my heart, and a share of all my possessions.”
 
 “You play a farce, which I merely laugh at.”
 
-“I ask you to pass through life at my side—to be my second self, and
+“I ask you to pass through life at my side—to be my second cls, and
 best earthly companion.”
 
 “For that fate you have already made your choice, and must abide by
@@ -12965,7 +12965,7 @@ and pain me. I want an explanation.”
 happened in my absence:—nothing, probably, of consequence; but, in
 short, it has disturbed you. Let me hear it. Mrs. Fairfax has said
 something, perhaps? or you have overheard the servants talk?—your
-sensitive self-respect has been wounded?”
+sensitive cls-respect has been wounded?”
 
 “No, sir.” It struck twelve—I waited till the time-piece had concluded
 its silver chime, and the clock its hoarse, vibrating stroke, and then
@@ -13278,7 +13278,7 @@ a brooch; I hurried from under her hands as soon as I could.
 not taken one peep.”
 
 So I turned at the door: I saw a robed and veiled figure, so unlike my
-usual self that it seemed almost the image of a stranger. “Jane!”
+usual cls that it seemed almost the image of a stranger. “Jane!”
 called a voice, and I hastened down. I was received at the foot of the
 stairs by Mr. Rochester.
 
@@ -13866,7 +13866,7 @@ rightly?”
 “If you think so, you must have a strange opinion of me; you must
 regard me as a plotting profligate—a base and low rake who has been
 simulating disinterested love in order to draw you into a snare
-deliberately laid, and strip you of honour and rob you of self-respect.
+deliberately laid, and strip you of honour and rob you of cls-respect.
 What do you say to that? I see you can say nothing: in the first place,
 you are faint still, and have enough to do to draw your breath; in the
 second place, you cannot yet accustom yourself to accuse and revile me,
@@ -14200,7 +14200,7 @@ daughter have free advent—my arms wait to receive her.”
 
 “Now, sir, proceed; what did you do when you found she was mad?”
 
-“Jane, I approached the verge of despair; a remnant of self-respect was
+“Jane, I approached the verge of despair; a remnant of cls-respect was
 all that intervened between me and the gulf. In the eyes of the world,
 I was doubtless covered with grimy dishonour; but I resolved to be
 clean in my own sight—and to the last I repudiated the contamination of
@@ -14244,7 +14244,7 @@ one—let me break away, and go home to God!’
 contained a brace of loaded pistols: I meant to shoot myself. I only
 entertained the intention for a moment; for, not being insane, the
 crisis of exquisite and unalloyed despair, which had originated the
-wish and design of self-destruction, was past in a second.
+wish and design of cls-destruction, was past in a second.
 
 “A wind fresh from Europe blew over the ocean and rushed through the
 open casement: the storm broke, streamed, thundered, blazed, and the
@@ -14526,7 +14526,7 @@ I shuddered to hear the infatuated assertion.
 “You see now how the case stands—do you not?” he continued. “After a
 youth and manhood passed half in unutterable misery and half in dreary
 solitude, I have for the first time found what I can truly love—I have
-found _you_. You are my sympathy—my better self—my good angel. I am
+found _you_. You are my sympathy—my better cls—my good angel. I am
 bound to you with a strong attachment. I think you good, gifted,
 lovely: a fervent, a solemn passion is conceived in my heart; it leans
 to you, draws you to my centre and spring of life, wraps my existence
@@ -14817,13 +14817,13 @@ stay with him and be his. I longed to be his; I panted to return: it
 was not too late; I could yet spare him the bitter pang of bereavement.
 As yet my flight, I was sure, was undiscovered. I could go back and be
 his comforter—his pride; his redeemer from misery, perhaps from ruin.
-Oh, that fear of his self-abandonment—far worse than my abandonment—how
+Oh, that fear of his cls-abandonment—far worse than my abandonment—how
 it goaded me! It was a barbed arrow-head in my breast; it tore me when
 I tried to extract it; it sickened me when remembrance thrust it
 farther in. Birds began singing in brake and copse: birds were faithful
 to their mates; birds were emblems of love. What was I? In the midst of
 my pain of heart and frantic effort of principle, I abhorred myself. I
-had no solace from self-approbation: none even from self-respect. I had
+had no solace from cls-approbation: none even from cls-respect. I had
 injured—wounded—left my master. I was hateful in my own eyes. Still I
 could not turn, nor retrace one step. God must have led me on. As to my
 own will or conscience, impassioned grief had trampled one and stifled
@@ -15897,7 +15897,7 @@ intelligent—her features equally pretty; but her expression was more
 reserved, and her manners, though gentle, more distant. Diana looked
 and spoke with a certain authority: she had a will, evidently. It was
 my nature to feel pleasure in yielding to an authority supported like
-hers, and to bend, where my conscience and self-respect permitted, to
+hers, and to bend, where my conscience and cls-respect permitted, to
 an active will.
 
 “And what business have you here?” she continued. “It is not your
@@ -16918,7 +16918,7 @@ rapidly developed itself. Their amazement at me, my language, my rules,
 and ways, once subsided, I found some of these heavy-looking, gaping
 rustics wake up into sharp-witted girls enough. Many showed themselves
 obliging, and amiable too; and I discovered amongst them not a few
-examples of natural politeness, and innate self-respect, as well as of
+examples of natural politeness, and innate cls-respect, as well as of
 excellent capacity, that won both my goodwill and my admiration. These
 soon took a pleasure in doing their work well, in keeping their persons
 neat, in learning their tasks regularly, in acquiring quiet and orderly
@@ -17124,7 +17124,7 @@ heart plainly; at the moment I felt calmer and cooler than he: I had
 then temporarily the advantage of him, and I conceived an inclination
 to do him some good, if I could.
 
-“With all his firmness and self-control,” thought I, “he tasks himself
+“With all his firmness and cls-control,” thought I, “he tasks himself
 too far: locks every feeling and pang within—expresses, confesses,
 imparts nothing. I am sure it would benefit him to talk a little about
 this sweet Rosamond, whom he thinks he ought not to marry: I will make
@@ -17227,7 +17227,7 @@ fetter your heart?”
 doing: human love rising like a freshly opened fountain in my mind and
 overflowing with sweet inundation all the field I have so carefully and
 with such labour prepared—so assiduously sown with the seeds of good
-intentions, of self-denying plans. And now it is deluged with a
+intentions, of cls-denying plans. And now it is deluged with a
 nectarous flood—the young germs swamped—delicious poison cankering
 them: now I see myself stretched on an ottoman in the drawing-room at
 Vale Hall at my bride Rosamond Oliver’s feet: she is talking to me with
@@ -17339,7 +17339,7 @@ has cultivated my original qualities thus:—From the minute germ,
 natural affection, she has developed the overshadowing tree,
 philanthropy. From the wild stringy root of human uprightness, she has
 reared a due sense of the Divine justice. Of the ambition to win power
-and renown for my wretched self, she has formed the ambition to spread
+and renown for my wretched cls, she has formed the ambition to spread
 my Master’s kingdom; to achieve victories for the standard of the
 cross. So much has religion done for me; turning the original materials
 to the best account; pruning and training nature. But she could not
@@ -17664,7 +17664,7 @@ Besides, the words Legacy, Bequest, go side by side with the words,
 Death, Funeral. My uncle I had heard was dead—my only relative; ever
 since being made aware of his existence, I had cherished the hope of
 one day seeing him: now, I never should. And then this money came only
-to me: not to me and a rejoicing family, but to my isolated self. It
+to me: not to me and a rejoicing family, but to my isolated cls. It
 was a grand boon doubtless; and independence would be glorious—yes, I
 felt that—_that_ thought swelled my heart.
 
@@ -18010,7 +18010,7 @@ my hand, exchanging a few words of special farewell with some
 half-dozen of my best scholars: as decent, respectable, modest, and
 well-informed young women as could be found in the ranks of the British
 peasantry. And that is saying a great deal; for after all, the British
-peasantry are the best taught, best mannered, most self-respecting of
+peasantry are the best taught, best mannered, most cls-respecting of
 any in Europe: since those days I have seen paysannes and Bäuerinnen;
 and the best of them seemed to me ignorant, coarse, and besotted,
 compared with my Morton girls.
@@ -18832,7 +18832,7 @@ ineradicable ambition; discriminate the Christian from the man:
 profoundly esteem the one, and freely forgive the other. I should
 suffer often, no doubt, attached to him only in this capacity: my body
 would be under rather a stringent yoke, but my heart and mind would be
-free. I should still have my unblighted self to turn to: my natural
+free. I should still have my unblighted cls to turn to: my natural
 unenslaved feelings with which to communicate in moments of loneliness.
 There would be recesses in my mind which would be only mine, to which
 he never came, and sentiments growing there fresh and sheltered which
