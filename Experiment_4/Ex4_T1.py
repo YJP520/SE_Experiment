@@ -89,8 +89,7 @@ class KShingle:
 
     @classmethod
     def test_1(cls):  # Kshingle 测试函数
-        # content = '我在重庆理工大学上学'
-        content = '我在重庆的重庆理工大学上大学'
+        content = '我在重庆理工大学上学'
         K_value = 2
         dic = cls.getShingle(content, K_value)  # 调用测试
         print(Color.blue, dic)  # 打印字典
@@ -103,8 +102,10 @@ class KShingle:
     def test_2(cls):  # Kshingle 测试函数
         print(Color.green, 'Experiment_4', Color.yellow, '---', Color.carmine, 'Ex4_T1')
         print()
-        content1 = '重庆理工大学在重庆市，是一个美丽的大学。'
-        content2 = '重庆市有一个美丽的大学，叫重庆理工大学。'
+        # content1 = '重庆理工大学在重庆市，是一个美丽的大学。'
+        # content2 = '重庆市有一个美丽的大学，叫重庆理工大学。'
+        content1 = 'uvwxyzab'
+        content2 = 'uvwxyzac'
         print(Color.blue, 'content1:', content1)
         print(Color.green, 'content2:', content2)
         for K in range(1, 6):

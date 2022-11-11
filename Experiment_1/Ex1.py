@@ -340,7 +340,7 @@ if __name__ == "__main__":
     # testAll()  # 整体测试
     # testColor()  # 颜色显示测试
     # show()  # 搜索关键字高亮显示
-    runningTime1()  # 运行时间比拼
+    # runningTime1()  # 运行时间比拼
     # runningTime2()  # 运行时间比拼
     pass
 

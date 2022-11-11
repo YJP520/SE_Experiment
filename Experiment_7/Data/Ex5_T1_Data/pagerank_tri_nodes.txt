@@ -1,0 +1,8 @@
+顶点信息
+A B C
+边信息
+A B
+A C
+B C
+C B
+C A

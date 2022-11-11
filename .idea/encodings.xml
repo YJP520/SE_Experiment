@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/Experiment_5/Data/四十万汉语大词库.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Experiment_5/Data/实验五 最大正向匹配_分词.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Experiment_7/Data/Ex5_T1_Data/pagerank_four_nodes.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Experiment_7/Data/Ex5_T1_Data/pagerank_seven_nodes.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Experiment_7/Data/Ex5_T1_Data/pagerank_tri_nodes.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Experiment_8/Data/Data_T1_Out/自动摘要.txt-seg.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Experiment_8/Data/Data_T2/51.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Experiment_8/Data/result1.txt" charset="GBK" />
+  </component>
+</project>

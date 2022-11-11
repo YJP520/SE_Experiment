@@ -104,6 +104,7 @@ class SimHash(object):
                 simHash = simHash + '1'
             else:
                 simHash = simHash + '0'
+        # print(Color.yellow, simHash)
         return simHash
 
     @classmethod
@@ -161,21 +162,23 @@ class SimHash(object):
 if __name__ == '__main__':
     print(Color.green, 'Experiment_4', Color.yellow, '---', Color.carmine, 'Ex4_ex2')
 
-    filePath1 = 'Data/Ex4_T2_Data/content1.txt'
-    content1 = None  # 内容 1
-    filePath2 = 'Data/Ex4_T2_Data/content2.txt'
-    content2 = None  # 内容 2
-    with open(filePath1, 'r', encoding='utf-8') as f1:
-        content1 = f1.read()
-    f1.close()
-    with open(filePath2, 'r', encoding='utf-8') as f2:
-        content2 = f2.read()
-    f2.close()
-    distance = SimHash.getSimHash(content1, content2)
+    # filePath1 = 'Data/Ex4_T2_Data/content1.txt'
+    # content1 = None  # 内容 1
+    # filePath2 = 'Data/Ex4_T2_Data/content2.txt'
+    # content2 = None  # 内容 2
+    # with open(filePath1, 'r', encoding='utf-8') as f1:
+    #     content1 = f1.read()
+    # f1.close()
+    # with open(filePath2, 'r', encoding='utf-8') as f2:
+    #     content2 = f2.read()
+    # f2.close()
+    # distance = SimHash.getSimHash(content1, content2)
 
-    # s1 = '我在重庆的重庆理工大学'
-    # s2 = '我在重庆的重庆大学上大学'
-    # distance = SimHash.getSimHash(s1, s2)
+    s1 = '我在重庆的重庆理工大学'
+    s2 = '我在重庆的重庆大学上大学'
+    print(Color.green, s1)
+    print(Color.blue, s2)
+    distance = SimHash.getSimHash(s1, s2)
 
     print(Color.black, "----------------------------------")
     print(Color.red, 'distance = {}'.format(distance))

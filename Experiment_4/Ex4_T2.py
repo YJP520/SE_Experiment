@@ -44,7 +44,7 @@ class Color:
 
 # -------------------------------------------------------------------------------------------------------------
 # 给利用K-shingle算法，计算两个给定文档的相似度，查找重复字符串，并将重复字符串高亮显示出来
-# 文本查重技术 K-shingle
+# 改进文本查重技术 K-shingle
 class KS_PRO:
     def __init__(self):
         pass
@@ -135,17 +135,17 @@ class KS_PRO:
         for index in list1:
             if index not in "，。《》、？；：‘”【{】}、|=+-——）（*&……%￥#@！ ,<.>/?\'\";:[{]}=+-_)(*&^%$#@!":
                 wordsList1.append(index)
-        # print(Color.green, wordsList1)
+        print(Color.green, wordsList1)
 
         list2 = cls.cutWords(content2)
         wordsList2 = []
         for index in list2:
             if index not in "，。《》、？；：‘”【{】}、|=+-——）（*&……%￥#@！ ,<.>/?\'\";:[{]}=+-_)(*&^%$#@!":
                 wordsList2.append(index)
-        # print(Color.carmine, wordsList2)
+        print(Color.carmine, wordsList2)
 
         commonWords = set(wordsList1) & set(wordsList2)
-        # print(Color.blue, commonWords)
+        print(Color.blue, commonWords)
 
         for index in list1:
             if index in commonWords:

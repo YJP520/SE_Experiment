@@ -1,0 +1,21 @@
+顶点信息
+A B C D E F G
+边信息
+A B
+A C
+A D
+A E
+A G
+B A
+C B
+C A
+D B
+D C
+D E
+E A
+E D
+E F
+E C
+F E
+F A
+G E
